@@ -1,2 +1,2 @@
 
-Create a pod called `my-pod`
+Create a pod called ```my-pod```
